@@ -24,16 +24,16 @@
 ## 기타 Package (한글 형태소) 설치
 1. 한글 자연어 처리 Python 패키지 설치 (konlpy)  
 - 구글 드라이브 공유 폴더 내 JPype1-0.6.2-cp35-cp35m-win_amd64.whl 다운로드
-- cmd 창에서 pip intall JPype1-0.6.2-cp35-cp35m-win_amd64.whl 수행
+2. Command 창에서 아래 command 수행
 
 ```bash
+# pip upgrade
 pip install --upgrade pip
+# JPype install
 pip install JPype1-0.5.7-cp27-none-win_amd64.whl
-'''
-
-```bash
-pip install konlpy 수행
-'''
+# Knlpy 설치 
+pip install konlpy
+```
 
 - 구글 드라이브 공유 폴더 > 관련문서 > 자연어처리 > konlpy-ko.pdf 설치
 
