@@ -1,5 +1,7 @@
 # ccbrain
 
 ##  개발환경설정
-[]   ㅇㅇ   
+- []   WINDOWS BIT 확인
+       Tensorflow   
+- []
 
