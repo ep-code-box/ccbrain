@@ -25,10 +25,16 @@
 1. 한글 자연어 처리 Python 패키지 설치 (konlpy)  
 - 구글 드라이브 공유 폴더 내 JPype1-0.6.2-cp35-cp35m-win_amd64.whl 다운로드
 - cmd 창에서 pip intall JPype1-0.6.2-cp35-cp35m-win_amd64.whl 수행
-  [command] 
-  >> pip install --upgrade pip
-  >> pip install JPype1-0.5.7-cp27-none-win_amd64.whl
-- cmd 창에서 pip install konlpy 수행
+
+```bash
+pip install --upgrade pip
+pip install JPype1-0.5.7-cp27-none-win_amd64.whl
+'''
+
+```bash
+pip install konlpy 수행
+'''
+
 - 구글 드라이브 공유 폴더 > 관련문서 > 자연어처리 > konlpy-ko.pdf 설치
 
 ## Tensorflow 설치
