@@ -41,7 +41,7 @@ pip install konlpy
 
 ```bash
 # CPU 버전 설치
-pip install tensorflow-cpu 
+pip install tensorflow 
 # GPU 버전 설치, CUDA, cuDNN 추가 설치 필요 (http://datamasters.tistory.com/12)
 pip install tensorflow-gpu 
 ```
