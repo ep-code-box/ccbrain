@@ -4,7 +4,7 @@ import numpy as np
 import numpy.linalg as linalg
 
 ''' 
-행렬 (Matrix)
+행렬 (Matrix)....
 - 기하학적인 공간의 단위원소를 표현
 - python에서 행렬은 numpy에서 제공하는 nparray 형태로 사용
 - 벡터는 1차원, 행렬은 2차원 
